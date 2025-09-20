@@ -15,7 +15,7 @@
 - 🎓 **Student** at the Faculty of Systems and Computer Engineering, National University of San Marcos.
 - 🧑‍💻 **Data Enthusiast**: Driven by the challenge of turning complex data into actionable insights that drive informed decision-making. 
 - 💼 **Open to Opportunities:** Seeking roles in Data Analytics.  
-- 🌐 **Portfolio Website:** [Visit My Site](https://wisnerportfolio.vercel.app/).  
+- 🌐 **Portfolio Website:** [Visit My Site](https://landing-page-wisner.vercel.app/).  
 - 📊 **Interests:** Data analysis, user interface design, AI-powered solutions, and software development. 
 
 ## ⚙️ GitHub Analytics
